@@ -1,8 +1,8 @@
-# challenge-ONE-amigo-secreto
+# 🎉 challenge-ONE-amigo-secreto 🎉
 
-Repositório para compartilhar minha versão do Desafio do challenge amigo secreto, 
-proposto pelo Oracle Next Education e Alura Latam.
+📂 Repositório para compartilhar minha versão do desafio Amigo Secreto, proposto pelo Oracle Next Education e Alura Latam.
 
-tem o proposito de praticar a logica de programação com JavaScript que aprendi nos cursos:
-- logica programacao: mergulhe programacao javascript
-- logica programacao: funcoes e listas
+💻 Este projeto tem o propósito de praticar a lógica de programação com JavaScript, que aprendi nos cursos:
+
+📘 Lógica de Programação: Mergulhe na Programação com JavaScript
+📗 Lógica de Programação: Funções e Listas
