@@ -5,7 +5,7 @@
 
 💻 Este projeto tem o propósito de praticar a lógica de programação com JavaScript, que aprendi nos cursos:
 
-📘 Lógica de Programação: Mergulhe na Programação com JavaScript
+📘 Lógica de Programação: Mergulhe na Programação com JavaScript.
 Aprendemos: 
 •	Exibindo mensagens na tela
 •	Comparando variáveis
@@ -21,7 +21,7 @@ Aprendemos:
 •	Operador ternário
 •	Math random
 
-📗 Lógica de Programação: Funções e Listas
+📗 Lógica de Programação: Funções e Listas.
 Aprendemos:
 •	Manipulando textos
 •	Criando uma função
